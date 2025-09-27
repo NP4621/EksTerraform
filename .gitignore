@@ -1,0 +1,7 @@
+# Ignore Terraform state and provider files
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.backup
+*.log
